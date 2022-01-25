@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637583790 source:c:\users\berkay\desktop\kodlar\suffix2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1637583790 source:c:\users\berkay\desktop\prolab-i proje2\suffixtree\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1637588865 source:c:\users\berkay\desktop\github\2.proje\prolab-i proje2\suffixtree\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
